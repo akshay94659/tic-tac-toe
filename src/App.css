@@ -13,7 +13,8 @@ body {
   background-color: #03203C;
 }
 .cards:hover{
-
+  transform: scale(0.9);
+  transition-duration: 0.5s;
   border-color: #F4BE2C;
 }
 .box {

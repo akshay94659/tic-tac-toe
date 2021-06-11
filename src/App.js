@@ -72,7 +72,6 @@ function App() {
 
   return (
     <div style={{ backgroundImage: `url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png")`, height: "750px" }} >
-
       <Container className="p-5" >
         <ToastContainer position="bottom-center" />
         <Row>
